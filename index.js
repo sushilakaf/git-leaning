@@ -1,4 +1,4 @@
 function ass(a,b){
-    return a+b
+    return a-b
 }
-console.log(ass(42,2));
+console.log(ass(3,2));
